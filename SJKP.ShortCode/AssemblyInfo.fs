@@ -9,7 +9,7 @@ open System.Runtime.InteropServices
 set of attributes. Change these attribute values to modify the information
 associated with an assembly. *)
 [<assembly: AssemblyTitle("SJKP.ShortCode")>]
-[<assembly: AssemblyDescription("")>]
+[<assembly: AssemblyDescription("Simple url short code library, like know from youtube, but generates short codes that are prepended with a date")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("SJKP")>]
 [<assembly: AssemblyProduct("SJKP.ShortCode")>]
