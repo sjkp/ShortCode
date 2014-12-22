@@ -13,6 +13,7 @@
     <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>
     <TargetProfile>netcore</TargetProfile>
     <TargetFSharpCoreVersion>3.259.4.0</TargetFSharpCoreVersion>
+    <VisualStudioVersion>14.0</VisualStudioVersion>
     <Name>SJKP.ShortCode</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

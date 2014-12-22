@@ -9,7 +9,7 @@ open System.Runtime.InteropServices
 set of attributes. Change these attribute values to modify the information
 associated with an assembly. *)
 [<assembly: AssemblyTitle("SJKP.ShortCode")>]
-[<assembly: AssemblyDescription("Simple url short code library, like know from youtube, but generates short codes that are prepended with a date")>]
+[<assembly: AssemblyDescription("Simple url short code library, like known from youtube's video ids. But instead of completely random short codes, it generates short codes that are prepended with a date.")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("SJKP")>]
 [<assembly: AssemblyProduct("SJKP.ShortCode")>]
@@ -28,8 +28,8 @@ associated with an assembly. *)
 You can specify all the values or you can default the Build and Revision Numbers 
 by using the '*' as shown below:
 [<assembly: AssemblyVersion("1.0.*")>] *)
-[<assembly: AssemblyVersion("1.0.0.0")>]
-[<assembly: AssemblyFileVersion("1.0.0.0")>]
+[<assembly: AssemblyVersion("1.0.0.1")>]
+[<assembly: AssemblyFileVersion("1.0.0.1")>]
 
 do
     ()
